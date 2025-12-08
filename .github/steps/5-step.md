@@ -1,42 +1,42 @@
-## Step 5: Using GitHub Copilot within a pull request
+## Passo 5: Usando o GitHub Copilot em um pull request
 
-Congratulations! You are finished with coding for this exercise (and VS Code). Now it's time to merge our work. :tada: To wrap up, let's learn about two limited-access Copilot features that can speed up our pull requests!
+Parabéns! Você terminou a codificação deste exercício (e o VS Code). Agora é hora de fazer o merge do nosso trabalho. :tada: Para finalizar, vamos aprender sobre dois recursos do Copilot com acesso limitado que podem acelerar nossos pull requests!
 
-### 📖 Theory: GitHub Copilot for pull requests
+### 📖 Teoria: GitHub Copilot para pull requests
 
 #### Copilot pull request summaries
 
-Typically, you would review your notes and commit messages then summarize them for your pull request description. This may take some time, especially if commit messages are inconsistent or code is not documented well. Fortunately, Copilot can consider all changes in the pull request and provide the important highlights, and with references too!
+Normalmente, você revisaria suas anotações e mensagens de commit e as resumiria para a descrição do seu pull request. Isso pode levar algum tempo, especialmente se as mensagens de commit forem inconsistentes ou o código não estiver bem documentado. Felizmente, o Copilot pode considerar todas as mudanças no pull request e fornecer os destaques importantes, e com referências também!
 
 #### Copilot code review
 
-More eyes on our work is always useful so let's ask Copilot to do a first pass before we do a normal peer review process. Copilot is great at catching common mistakes that are fixed by simple adjustments, but please remember to use it responsibly.
+Mais olhos no nosso trabalho é sempre útil, então vamos pedir ao Copilot para fazer uma primeira passagem antes de fazermos o processo normal de revisão por pares. O Copilot é ótimo em detectar erros comuns que são corrigidos com ajustes simples, mas lembre-se de usá-lo de forma responsável.
 
 > [!NOTE]
-> These features are only available on paid plans of **GitHub Copilot**. [[docs]](https://docs.github.com/en/copilot/get-started/plans)
+> Esses recursos estão disponíveis apenas nos planos pagos do **GitHub Copilot**. [[docs]](https://docs.github.com/en/copilot/get-started/plans)
 
-### :keyboard: Activity: Summarize and review a PR with Copilot
+### :keyboard: Atividade: Resumir e revisar um PR com o Copilot
 
-Both **Copilot pull request summaries** and **Copilot code review** have limited access, so this activity is mostly optional. If you don't have access, skip the optional steps of this activity.
+Tanto o **Copilot pull request summaries** quanto o **Copilot code review** têm acesso limitado, então esta atividade é principalmente opcional. Se você não tiver acesso, pule os passos opcionais desta atividade.
 
-1. In a web browser, open another tab and navigate to your exercise repository.
+1. Em um navegador web, abra outra aba e navegue até seu repositório do exercício.
 
-1. You might notice a **notification banner** suggesting to create a new pull request. Click that or use the **Pull Requests** tab at the top to **create a new pull request**. Please use the following details:
+1. Você pode notar um **banner de notificação** sugerindo criar um novo pull request. Clique nele ou use a aba **Pull Requests** no topo para **criar um novo pull request**. Por favor, use os seguintes detalhes:
 
    - **base:** `main`
    - **compare:** `accelerate-with-copilot`
    - **title:** `Improve student activity registration system`
 
-1. (Optional) In the PR description toolbar click the **Copilot** icon and **Summary** action. After a moment, Copilot will add a description based on your changes. :memo:
+1. (Opcional) Na barra de ferramentas da descrição do PR, clique no ícone do **Copilot** e na ação **Summary**. Após um momento, o Copilot adicionará uma descrição baseada nas suas mudanças. :memo:
 
    <img alt="Copilot summarize button" width="450px" src="../images/copilot-summarize-button.png">
 
-1. (Optional) In the right side information panel at the top, locate the **Reviewers** section and click the **Request** button next to a **Copilot icon**. Wait a moment for Copilot to add a review comment to your pull request!
+1. (Opcional) No painel de informações do lado direito, no topo, localize a seção **Reviewers** e clique no botão **Request** ao lado do **ícone do Copilot**. Aguarde um momento para o Copilot adicionar um comentário de revisão ao seu pull request!
 
    <img alt="Copilot review button" width="300px" src="../images/copilot-review-button.png">
 
-   > 💡 **Tip:** Notice a log entry that Copilot was requested for a review.
+   > 💡 **Dica:** Note uma entrada de log informando que o Copilot foi solicitado para uma revisão.
 
-1. At the bottom, press the **Merge pull request** button. Nice work! You are all done! :tada:
+1. Na parte inferior, pressione o botão **Merge pull request**. Ótimo trabalho! Você terminou! :tada:
 
-1. Wait a moment for Mona to check your work, provide feedback, and post a final review of this exercise!
+1. Aguarde um momento para a Mona verificar seu trabalho, fornecer feedback e postar uma revisão final deste exercício!

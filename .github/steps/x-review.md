@@ -1,22 +1,22 @@
-## Review
+## Revisão
 
-_Congratulations, you've completed this exercise and learned a lot about GitHub Copilot!_
+_Parabéns, você completou este exercício e aprendeu muito sobre o GitHub Copilot!_
 
 <img src="https://octodex.github.com/images/jetpacktocat.png" alt=celebrate width=200 align=right>
 
-Here's a recap of the GitHub Copilot features you learned:
+Aqui está um resumo dos recursos do GitHub Copilot que você aprendeu:
 
-- **Ask Mode**: Explored your codebase with Copilot
-- **Inline suggestions**: Completed code with Tab acceptance
-- **Inline Chat**: Generated code and data with Ctrl/Cmd + I
-- **Agent Mode**: Built features autonomously
-- **Plan Agent**: Drafted a plan, answered questions, and started implementation
-- **GitHub integration**: Generated commit messages, PR summaries, and code reviews
+- **Ask Mode**: Explorou sua base de código com o Copilot
+- **Inline suggestions**: Completou código com aceitação via Tab
+- **Inline Chat**: Gerou código e dados com Ctrl/Cmd + I
+- **Agent Mode**: Construiu funcionalidades de forma autônoma
+- **Plan Agent**: Elaborou um plano, respondeu perguntas e iniciou a implementação
+- **Integração com GitHub**: Gerou mensagens de commit, resumos de PR e code reviews
 
-### What's next?
+### O que vem a seguir?
 
-- Check out the other [GitHub Skills exercises](https://learn.github.com/skills).
-  - Learn how to [Integrate MCP with Copilot](https://github.com/skills/integrate-mcp-with-copilot) to give Copilot extra capabilities!
-  - Tailor Copilot to your project needs in [Customize your GitHub Copilot Experience](https://github.com/skills/customize-your-github-copilot-experience)
-  - Tackle legacy COBOL code in [Modernize Your Legacy Code with GitHub Copilot](https://github.com/skills/modernize-your-legacy-code-with-github-copilot) exercise
-  - Try GitHub Copilot Coding Agent in the [Expand your team with Copilot](https://github.com/skills/expand-your-team-with-copilot) exercise
+- Confira os outros [exercícios do GitHub Skills](https://learn.github.com/skills).
+  - Aprenda como [Integrar MCP com o Copilot](https://github.com/skills/integrate-mcp-with-copilot) para dar ao Copilot capacidades extras!
+  - Personalize o Copilot para as necessidades do seu projeto em [Customize your GitHub Copilot Experience](https://github.com/skills/customize-your-github-copilot-experience)
+  - Enfrente código legado COBOL em [Modernize Your Legacy Code with GitHub Copilot](https://github.com/skills/modernize-your-legacy-code-with-github-copilot)
+  - Experimente o GitHub Copilot Coding Agent no exercício [Expand your team with Copilot](https://github.com/skills/expand-your-team-with-copilot)
