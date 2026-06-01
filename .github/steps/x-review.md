@@ -16,7 +16,7 @@ Aqui está um resumo dos recursos do GitHub Copilot que você aprendeu:
 ### O que vem a seguir?
 
 - Confira os outros [exercícios do GitHub Skills](https://learn.github.com/skills).
-  - Aprenda como [Integrar MCP com o Copilot](https://github.com/skills/integrate-mcp-with-copilot) para dar ao Copilot capacidades extras!
-  - Personalize o Copilot para as necessidades do seu projeto em [Customize your GitHub Copilot Experience](https://github.com/skills/customize-your-github-copilot-experience)
-  - Enfrente código legado COBOL em [Modernize Your Legacy Code with GitHub Copilot](https://github.com/skills/modernize-your-legacy-code-with-github-copilot)
-  - Experimente o GitHub Copilot Coding Agent no exercício [Expand your team with Copilot](https://github.com/skills/expand-your-team-with-copilot)
+  - Aprenda como [Integrar MCP com o Copilot](https://github.com/dev-pods/integrate-mcp-with-copilot) para dar ao Copilot capacidades extras!
+  - Personalize o Copilot para as necessidades do seu projeto em [Customize your GitHub Copilot Experience](https://github.com/dev-pods/customize-your-github-copilot-experience)
+  - Enfrente código legado COBOL em [Modernize Your Legacy Code with GitHub Copilot](https://github.com/dev-pods/modernize-your-legacy-code-with-github-copilot)
+  - Experimente o GitHub Copilot Coding Agent no exercício [Expand your team with Copilot](https://github.com/dev-pods/expand-your-team-with-copilot)
